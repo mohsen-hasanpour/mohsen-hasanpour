@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mohsen-hasanpour/mohsen-hasanpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## I'm ...
 - PHP fullstack developer
 - WordPress Plugin & Theme Developer
