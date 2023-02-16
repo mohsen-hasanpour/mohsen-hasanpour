@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 ### Follow MY Social Media Profiles
 
-[![Telegram](https://img.icons8.com/color/48/000000/bubbles.png)](https://t.me/hasanpour_mohsen)
-[![Instagram](https://img.icons8.com/color/48/000000/bubbles.png)](https://instagram.com/hasanpour__mohsen)
-[![LinkedIn](https://img.icons8.com/color/48/000000/bubbles.png)](https://www.linkedin.com/in/mohsen-hasanpour-66476a262/)
+[![Telegram](https://img.icons8.com/color/48/000000/bubbles/telegram-new--v2.png)](https://t.me/hasanpour_mohsen)
+[![Instagram](https://img.icons8.com/color/48/000000/bubbles/instagram-new--v2.png)](https://instagram.com/hasanpour__mohsen)
+[![LinkedIn](https://img.icons8.com/color/48/000000/bubbles/linkedin-new--v2.png)](https://www.linkedin.com/in/mohsen-hasanpour-66476a262/)
 
 Icons are from [icons8.com](https://icons8.com/):
 - Bubbles icon pack
