@@ -10,6 +10,7 @@
 - SCSS
 - Bootstrap framework
 - JQuery & JQuery UI
+- WordPress Programming
 - PHP
 - Ruby
 - MySQL
