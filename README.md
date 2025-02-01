@@ -1,20 +1,20 @@
 # Hi there 👋
 
 ## I'm ...
-- PHP fullstack developer
+- PHP full-stack developer
 - WordPress Plugin & Theme Developer
 - Ruby Programmer
 
 ## My abilities...
 - HTML & CSS
 - SCSS
-- Bootstrap framework
+- Bootstrap 3/4/5 Framework
 - JQuery & JQuery UI
-- WordPress Programming
-- PHP
+- WordPress Developing
+- PHP pure
+- Laravel
 - Ruby
-- MySQL
-- 🌱 I’m currently learning Laravel & ROR
+- MySQL RDMS
 
 ## Follow MY Social Media Profiles
 
